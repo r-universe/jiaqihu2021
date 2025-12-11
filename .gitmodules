@@ -11,3 +11,6 @@
 [submodule "REFA"]
 	path = REFA
 	url = https://github.com/cran/REFA
+[submodule "factree"]
+	path = factree
+	url = https://github.com/cran/factree
